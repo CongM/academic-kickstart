@@ -48,6 +48,11 @@ user_groups = ["Researchers", "Visitors"]
   course = "B.S. in Statistics"
   institution = "Sun Yat-Sun University"
   year = 2017
+  
+[[education.courses]]
+  course = "Minor in Finance"
+  institution = "Sun Yat-Sun University"
+  year = 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -61,7 +66,7 @@ user_groups = ["Researchers", "Visitors"]
 
 [[social]]
   icon = "linkedin"
-  icon_pack = "fas"
+  icon_pack = "fab"
   link = "https://www.linkedin.com/in/cong-mu"  
 
 # [[social]]
