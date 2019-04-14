@@ -84,7 +84,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "cv"
   icon_pack = "ai"
-  link = "files/cv.pdf"
+  link = "files/CongMu_CV.pdf"
 
 +++
 
