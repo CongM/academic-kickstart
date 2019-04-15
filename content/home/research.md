@@ -17,7 +17,7 @@ subtitle = ""
 
 - Dynamic Network Structure [[Shiny App]](https://cong.shinyapps.io/ChinaNetwork/)
 
-- (G)RDPG with Covariates {{% staticref "files/Simulation_GRDPGwithCovariates_UpToDate.pdf" "newtab" %}}[Simulations & Applications]{{% /staticref %}}[[R Package(Private now)]](https://github.com/CongM/GRDPG)
+- (G)RDPG with Covariates [[Simulations & Applications]](https://congm.github.io/research/Simulation_GRDPGwithCovariates_UpToDate.pdf)[[R Package(Private now)]](https://github.com/CongM/GRDPG)
 
 
 <br/>
@@ -29,7 +29,7 @@ subtitle = ""
 
 - Key words: **Structural Similarity Index, Earth Mover’s Distance, Oriented FAST and Rotated BRIEF, Image Hashing, Robust Image Similarity Measure, Deep Neural Networks**
 
-- Mu, C., & Budavári, T. (2018). {{% staticref "files/Dash Cam Video Analysis - Laptimes and Beyond.pdf" "newtab" %}}Dash Cam Video Analysis: Laptimes and Beyond{{% /staticref %}}. Poster presented at [2018 IDIES Annual Symposium](http://idies.jhu.edu/presentation/dash-cam-video-analysis-laptimes-and-beyond/), Baltimore, MD.
+- Mu, C., & Budavári, T. (2018). [Dash Cam Video Analysis: Laptimes and Beyond](https://congm.github.io/research/Dash%20Cam%20Video%20Analysis%20-%20Laptimes%20and%20Beyond.pdf). Poster presented at [2018 IDIES Annual Symposium](http://idies.jhu.edu/presentation/dash-cam-video-analysis-laptimes-and-beyond/), Baltimore, MD.
 
 
 <br/>
@@ -42,7 +42,7 @@ subtitle = ""
 
 - Key words: **Low-Rank Subspace Clustering, Sparse Subspace Clustering, Spectral Curvature Clustering, Locally Linear Manifold Clustering, Profile Likelihood, Model-based Clustering, Random Dot Product Graph**
 
-- On Constructing Affinity Matrix {{% staticref "files/draft.pdf" "newtab" %}}[Draft]{{% /staticref %}}
+- On Constructing Affinity Matrix [[Draft]](https://congm.github.io/research/draft.pdf)
 
 
 <br/>
@@ -55,7 +55,7 @@ subtitle = ""
 
 - Key words: **Linear Mixed-Effect Model, ARIMA, Causal Inference**
 
-- Crockett M., Mu, C., & Dahbura, A. T. (2018). {{% staticref "files/Predictive Analytics for Patient Mobility Using AM-PAC.pdf" "newtab" %}}Predictive Analytics for Patient Mobility Using AM-PAC{{% /staticref %}}. Poster presented at [2018 Johns Hopkins Research Symposium on Engineering in Healthcare](https://malonecenter.jhu.edu/meetup/18symposium/), Baltimore, MD. 
+- Crockett M., Mu, C., & Dahbura, A. T. (2018). [Predictive Analytics for Patient Mobility Using AM-PAC](https://congm.github.io/research/Predictive%20Analytics%20for%20Patient%20Mobility%20Using%20AM-PAC.pdf). Poster presented at [2018 Johns Hopkins Research Symposium on Engineering in Healthcare](https://malonecenter.jhu.edu/meetup/18symposium/), Baltimore, MD. 
 
 
 <br/>
