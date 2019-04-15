@@ -6,7 +6,7 @@ title = "Constructing Affinity Matrix for Spectral Clustering"
 date = 2018-05-01T00:00:00
 
 # Project summary to display on homepage.
-summary = "Built network models that could be scaled to analyze large networks."
+summary = "Built a framework on constructing affinity matrix for spectral clustering."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -24,7 +24,7 @@ external_link = ""
 slides = ""
 
 # Links (optional).
-url_pdf = "Built a framework on constructing affinity matrix for spectral clustering"
+url_pdf = "https://congm.github.io/research/draft.pdf"
 url_slides = ""
 url_video = ""
 url_code = ""
