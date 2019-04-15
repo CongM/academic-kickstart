@@ -3,7 +3,7 @@
 title = "Therapy Functional Measures"
 
 # Date this page was created.
-date = 2019-04-14T00:00:00
+date = 2018-01-01T00:00:00
 
 # Project summary to display on homepage.
 summary = "Identified patterns in patient functional trajectories; measured causal effect of different physical therapy dosage regimes on patient functional status."
