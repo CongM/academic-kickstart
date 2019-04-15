@@ -1,1 +1,56 @@
++++
+# Project title.
+title = "Statistical-Models-for-Large-Networks"
+
+# Date this page was created.
+date = 2019-04-14T00:00:00
+
+# Project summary to display on homepage.
+summary = "Built network models that could be scaled to analyze large networks."
+
+# Tags: can be used for filtering projects.
+# Example: `tags = ["machine-learning", "deep-learning"]`
+tags = ["Statistical Network Model"]
+
+# Optional external URL for project (replaces project detail page).
+external_link = ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references 
+#   `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides = ""
+
+# Links (optional).
+url_pdf = "https://congm.github.io/research/Simulation_GRDPGwithCovariates_UpToDate.pdf"
+url_slides = ""
+url_video = ""
+url_code = "https://github.com/CongM/GRDPG"
+
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+links = [{name="Shiny App", url = "https://cong.shinyapps.io/ChinaNetwork/"}]
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your project's folder. 
+[image]
+  # Caption (optional)
+  caption = ""
+  
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "Smart"
++++
+
+- Built network models that could be scaled to analyze large networks; estimated and simulated network formation models using high performance computing; developed R package with research purposes such as identifying the community structure, influence of nodes on core-periphery
+
+- Key words: **Hierarchical Exponential-Family Random Graph Models, (Generalized) Random Dot Product Graph, SBM with Covariates, Variational generalized EM algorithms, Minorize-Maximization, Parallel Computation**
+
+
+
+
+
+
 
