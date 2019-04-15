@@ -14,7 +14,7 @@ subtitle = ""
 
 ## **Shiny**
 
-Shiny is an R package that makes it easy to build interactive web apps straight from R. {{% staticref "files/demo.html" "newtab" %}}[Demo]{{% /staticref %}}
+Shiny is an R package that makes it easy to build interactive web apps straight from R. [[Demo]](https://congm.github.io/resources/demo.html)
 
 <br/>
 
