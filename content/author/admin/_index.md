@@ -17,7 +17,7 @@ organizations = [ { name = "Department of Applied Mathematics and Statistics ", 
                   { name = "Johns Hopkins University", url = "https://www.jhu.edu/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My research interests include statistical network models, high-dimensional data analysis and video & image analysis."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -31,7 +31,7 @@ interests = [
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Researchers", "Visitors"]
+# user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
