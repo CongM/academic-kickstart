@@ -3,7 +3,7 @@
 title = "Constructing Affinity Matrix for Spectral Clustering"
 
 # Date this page was created.
-date = 2018-10-01T00:00:00
+date = 2018-05-01T00:00:00
 
 # Project summary to display on homepage.
 summary = "Built network models that could be scaled to analyze large networks."
