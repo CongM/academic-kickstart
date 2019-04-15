@@ -9,19 +9,19 @@ title = "Research"
 subtitle = ""
 +++
 
-## Statistical Models for Large Networks
+## **Statistical Models for Large Networks**
 
 - Built network models that could be scaled to analyze large networks; estimated and simulated network formation models using high performance computing; developed R package with research purposes such as identifying the community structure, influence of nodes on core-periphery
 
 - Key words: **Hierarchical Exponential-Family Random Graph Models, (Generalized) Random Dot Product Graph, SBM with Covariates, Variational generalized EM algorithms, Minorize-Maximization, Parallel Computation**
 
-- Dynamic Network Structure [Shiny App](https://cong.shinyapps.io/ChinaNetwork/)
+- Dynamic Network Structure [[Shiny App](https://cong.shinyapps.io/ChinaNetwork/)]
 
-- (G)RDPG with Covariates {{% staticref "files/Simulation_GRDPGwithCovariates_UpToDate.pdf" "newtab" %}}[Simulations & Applications]{{% /staticref %}}[R Package(Private now)](https://github.com/CongM/GRDPG)
+- (G)RDPG with Covariates {{% staticref "files/Simulation_GRDPGwithCovariates_UpToDate.pdf" "newtab" %}}[Simulations & Applications]{{% /staticref %}}[[R Package(Private now)](https://github.com/CongM/GRDPG)]
 
 
 <br/>
-
+<br/>
 
 ## Automatic Tools for Dash Cam Video
 
@@ -33,6 +33,8 @@ subtitle = ""
 
 
 <br/>
+<br/>
+
 
 ## Constructing Affinity Matrix for Spectral Clustering
 
@@ -44,6 +46,7 @@ subtitle = ""
 
 
 <br/>
+<br/>
 
 
 ## Therapy Functional Measures
@@ -52,9 +55,10 @@ subtitle = ""
 
 - Key words: **Linear Mixed-Effect Model, ARIMA, Causal Inference**
 
-- Crockett M., Mu, C., & Dahbura, A. T. (2018). Predictive Analytics for Patient Mobility Using AM-PAC. Poster presented at [2018 Johns Hopkins Research Symposium on Engineering in Healthcare](https://malonecenter.jhu.edu/meetup/18symposium/), Baltimore, MD. {{% staticref "files/Predictive Analytics for Patient Mobility Using AM-PAC.pdf" "newtab" %}}[Draft]{{% /staticref %}}
+- Crockett M., Mu, C., & Dahbura, A. T. (2018). Predictive Analytics for Patient Mobility Using AM-PAC. Poster presented at [2018 Johns Hopkins Research Symposium on Engineering in Healthcare](https://malonecenter.jhu.edu/meetup/18symposium/), Baltimore, MD. {{% staticref "files/Predictive Analytics for Patient Mobility Using AM-PAC.pdf" "newtab" %}}[Poster]{{% /staticref %}}
 
 
+<br/>
 <br/>
 
 
