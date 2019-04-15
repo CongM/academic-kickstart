@@ -41,7 +41,7 @@ links = [{name="Shiny App", url = "https://cong.shinyapps.io/ChinaNetwork/"}]
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
+  # focal_point = "Smart"
 +++
 
 - Built network models that could be scaled to analyze large networks; estimated and simulated network formation models using high performance computing; developed R package with research purposes such as identifying the community structure, influence of nodes on core-periphery
