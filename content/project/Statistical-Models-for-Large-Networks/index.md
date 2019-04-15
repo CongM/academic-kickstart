@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Statistical-Models-for-Large-Networks"
+title = "Statistical Models for Large Networks"
 
 # Date this page was created.
 date = 2019-04-14T00:00:00
