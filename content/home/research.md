@@ -30,6 +30,10 @@ subtitle = ""
     tag = "Statistical Network Model"
   
   [[content.filter_button]]
+    name = "Hign-Dimensional Data"
+    tag = "Hign-Dimensional Data"
+    
+  [[content.filter_button]]
     name = "Deep Learning"
     tag = "Deep Learning"
   
