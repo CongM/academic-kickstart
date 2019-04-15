@@ -3,7 +3,7 @@
 title = "Automatic Tools for Dash Cam Video"
 
 # Date this page was created.
-date = 2019-04-14T00:00:00
+date = 2018-12-05T00:00:00
 
 # Project summary to display on homepage.
 summary = "Developed automatic tools for analyzing and annotating video stream with relevant Information such as timing, speed, traffic, accidents, objects and etc."
