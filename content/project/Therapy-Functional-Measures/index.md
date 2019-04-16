@@ -42,7 +42,7 @@ url_code = ""
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point = "Smart"
 +++
 
 - Identified patterns in patient functional trajectories; measured causal effect of different physical therapy dosage regimes on patient functional status; constructed features and built model to predict AMPAC score to optimize physical therapy in the hospital
