@@ -60,7 +60,7 @@ interests = [
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
 [[social]]
-  icon = "pager"
+  icon = "fa-pager"
   icon_pack = "fas"
   link = "https://congm.github.io"  
 
