@@ -41,7 +41,7 @@ url_code = ""
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point = "Smart"
 +++
 
 - Collaborated with different teams to mine the large-scale text data, speculated gender based on names and explored characteristic distribution across gender; extracted information from large-scale data sets and reconstructed data; crawled online data
