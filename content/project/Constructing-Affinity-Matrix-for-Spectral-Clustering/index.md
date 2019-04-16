@@ -41,7 +41,7 @@ url_code = ""
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point = "Smart"
 +++
 
 - Built a framework on constructing affinity matrix for spectral clustering to apply it to a more general problem; developed corresponding theoretical justification on different setting
