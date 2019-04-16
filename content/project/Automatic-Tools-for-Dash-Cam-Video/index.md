@@ -42,7 +42,7 @@ url_code = "https://github.com/CongM/Dash-Cam-Video"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point = "Smart"
 +++
 
 - Developed automatic tools for analyzing and annotating video stream with relevant Information such as timing, speed, traffic, accidents, objects and etc
