@@ -14,5 +14,5 @@ subtitle = ""
 
 ## **@Johns Hopkins University**
 
-- Data Mining (Spring 2018, Teaching Assistant)
-- Data Mining (Spring 2019, Teaching Assistant)
+- Teaching Assistant
+  - Data Mining (Spring 2018, Spring 2019)
