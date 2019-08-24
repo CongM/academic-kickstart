@@ -27,7 +27,7 @@ slides = ""
 url_pdf = "https://congm.github.io/research/Simulation_GRDPGwithCovariates_UpToDate.pdf"
 url_slides = ""
 url_video = ""
-url_code = "https://github.com/CongM/GRDPG"
+url_code = "https://github.com/CongM/GRDPGwithCov"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
