@@ -38,6 +38,11 @@ interests = [
   course = "Ph.D. in Applied Mathematics and Statistics"
   institution = "Johns Hopkins University"
   year = 2023
+  
+[[education.courses]]
+  course = "M.S.E. in Computer Science"
+  institution = "Johns Hopkins University"
+  year = 2021
 
 [[education.courses]]
   course = "M.S.E. in Applied Mathematics and Statistics"
