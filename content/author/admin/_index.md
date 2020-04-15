@@ -51,12 +51,12 @@ interests = [
 
 [[education.courses]]
   course = "B.S. in Statistics"
-  institution = "Sun Yat-Sun University"
+  institution = "Sun Yat-Sen University"
   year = 2017
   
 [[education.courses]]
   course = "Minor in Finance"
-  institution = "Sun Yat-Sun University"
+  institution = "Sun Yat-Sen University"
   year = 2017
 
 # Social/Academic Networking
