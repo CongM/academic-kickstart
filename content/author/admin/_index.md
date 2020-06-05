@@ -25,7 +25,7 @@ email = ""
 # List (academic) interests or hobbies
 interests = [
   "Statistical Network Models",
-  "High-Dimensional and Graph Data Analysis",
+  "High-Dimensional and Graph Inference",
   "Video & Image Analysis"
 ]
 
