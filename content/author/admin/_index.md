@@ -17,16 +17,15 @@ organizations = [ { name = "Department of Applied Mathematics and Statistics ", 
                   { name = "Johns Hopkins University", url = "https://www.jhu.edu/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include statistical network models, high-dimensional data analysis and video & image analysis."
+bio = "My research interests include high-dimensional and graph inference, computer vision."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Statistical Network Models",
   "High-Dimensional and Graph Inference",
-  "Video & Image Analysis"
+  "Computer Vision"
 ]
 
 # Organizational groups that you belong to (for People widget)
