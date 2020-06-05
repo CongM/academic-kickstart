@@ -10,7 +10,7 @@ summary = "Built network models that could be scaled to analyze large networks."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Statistical Network Model"]
+tags = ["High-Dimensional and Graph Inference"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
