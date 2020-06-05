@@ -30,12 +30,12 @@ subtitle = ""
     tag = "Statistical Network Model"
   
   [[content.filter_button]]
-    name = "Hign-Dimensional Data"
-    tag = "Hign-Dimensional Data"
+    name = "High-Dimensional and Graph Inference"
+    tag = "High-Dimensional and Graph Inference"
     
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+    name = "Video & Image Analysis"
+    tag = "Video & Image Analysis"
   
   [[content.filter_button]]
     name = "Other"
