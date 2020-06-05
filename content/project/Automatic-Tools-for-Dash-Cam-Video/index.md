@@ -10,7 +10,7 @@ summary = "Developed automatic tools for analyzing and annotating video stream w
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Deep Learning"]
+tags = ["Video & Image Analysis"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
