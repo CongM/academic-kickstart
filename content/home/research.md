@@ -26,16 +26,12 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Statistical Network Model"
-    tag = "Statistical Network Model"
-  
-  [[content.filter_button]]
     name = "High-Dimensional and Graph Inference"
     tag = "High-Dimensional and Graph Inference"
     
   [[content.filter_button]]
-    name = "Video & Image Analysis"
-    tag = "Video & Image Analysis"
+    name = "Computer Vision"
+    tag = "Computer Vision"
   
   [[content.filter_button]]
     name = "Other"
