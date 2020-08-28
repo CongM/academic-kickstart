@@ -18,3 +18,4 @@ subtitle = ""
   - Data Mining (Spring 2018, Spring 2019, Fall 2019)
   - Applied Statistics and Data Analysis (Fall 2019)
   - Applied Statistics and Data Analysis II (Spring 2020)
+  - Statistical Theory (Fall 2020)
