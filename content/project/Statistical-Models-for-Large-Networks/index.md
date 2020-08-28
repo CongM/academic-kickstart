@@ -44,9 +44,9 @@ links = [{name="Shiny App", url = "https://cong.shinyapps.io/ChinaNetwork/"}]
   focal_point = "Smart"
 +++
 
-- Built network models that could be scaled to analyze large networks; estimated and simulated network formation models using high performance computing; developed R package with research purposes such as identifying the community structure, influence of nodes on core-periphery
+- Built network models that could be scaled to analyze large networks; estimated and simulated network formation models using high performance computing; developed R package with research purposes such as identifying the community structure, influence of nodes on core-periphery.
 
-- Key words: **Hierarchical Exponential-Family Random Graph Models, (Generalized) Random Dot Product Graph, SBM with Covariates, Variational generalized EM algorithms, Minorize-Maximization, Parallel Computation**
+- Key words: **Hierarchical Exponential-Family Random Graph Models, (Generalized) Random Dot Product Graph, SBM with Covariates, Variational generalized EM algorithms, Minorize-Maximization, Parallel Computation.**
 
 
 
