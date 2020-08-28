@@ -3,7 +3,7 @@
 title = "Community Detection for Stochastic Blockmodel Graphs with Vertex Covariates"
 
 # Date this page was created.
-date = 2018-07-01T00:00:00
+date = 2020-08-27T00:00:00
 
 # Project summary to display on homepage.
 summary = "Develop model-based spectral algorithms for clustering vertices in stochastic blockmodel graphs with vertex covariates."
