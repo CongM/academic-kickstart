@@ -45,9 +45,9 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-- Identified patterns in patient functional trajectories; measured causal effect of different physical therapy dosage regimes on patient functional status; constructed features and built model to predict AMPAC score to optimize physical therapy in the hospital
+- Identified patterns in patient functional trajectories; measured causal effect of different physical therapy dosage regimes on patient functional status; constructed features and built model to predict AMPAC score to optimize physical therapy in the hospital.
 
-- Key words: **Linear Mixed-Effect Model, ARIMA, Causal Inference**
+- Key words: **Linear Mixed-Effect Model, ARIMA, Causal Inference.**
 
 - Crockett M., **Mu, C.**, & Dahbura, A. T. (2018). [Predictive Analytics for Patient Mobility Using AM-PAC](https://congm.github.io/research/Predictive%20Analytics%20for%20Patient%20Mobility%20Using%20AM-PAC.pdf). Poster presented at [2018 Johns Hopkins Research Symposium on Engineering in Healthcare](https://malonecenter.jhu.edu/meetup/18symposium/), Baltimore, MD. 
 
