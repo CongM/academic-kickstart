@@ -45,9 +45,9 @@ url_code = "https://github.com/CongM/Dash-Cam-Video"
   focal_point = "Smart"
 +++
 
-- Developed automatic tools for analyzing and annotating video stream with relevant Information such as timing, speed, traffic, accidents, objects and etc
+- Developed automatic tools for analyzing and annotating video stream with relevant Information such as timing, speed, traffic, accidents, objects and etc.
 
-- Key words: **Structural Similarity Index, Earth Mover’s Distance, Oriented FAST and Rotated BRIEF, Image Hashing, Robust Image Similarity Measure, Deep Neural Networks**
+- Key words: **Structural Similarity Index, Earth Mover’s Distance, Oriented FAST and Rotated BRIEF, Image Hashing, Robust Image Similarity Measure, Deep Neural Networks.**
 
 - **Mu, C.**, & Budavári, T. (2018). [Dash Cam Video Analysis: Laptimes and Beyond](https://congm.github.io/research/Dash%20Cam%20Video%20Analysis%20-%20Laptimes%20and%20Beyond.pdf). Poster presented at [2018 IDIES Annual Symposium](http://idies.jhu.edu/presentation/dash-cam-video-analysis-laptimes-and-beyond/), Baltimore, MD.
 
