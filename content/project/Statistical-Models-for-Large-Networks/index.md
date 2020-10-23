@@ -31,8 +31,7 @@ url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name="Shiny App", url = "https://cong.shinyapps.io/ChinaNetwork/"}]
-links = [{name="Package", url = "https://github.com/meleangelo/grdpg"}]
+links = [{name="Shiny App", url = "https://cong.shinyapps.io/ChinaNetwork/"}, {name="Package", url = "https://github.com/meleangelo/grdpg"}]
 
 
 # Featured image
