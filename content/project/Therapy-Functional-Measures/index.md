@@ -49,7 +49,7 @@ url_code = ""
 
 - Key words: **Linear Mixed-Effect Model, ARIMA, Causal Inference.**
 
-- Crockett M., **Mu, C.**, & Dahbura, A. T. (2018). [Predictive Analytics for Patient Mobility Using AM-PAC](https://congm.github.io/research/Predictive%20Analytics%20for%20Patient%20Mobility%20Using%20AM-PAC.pdf). Poster presented at [2018 Johns Hopkins Research Symposium on Engineering in Healthcare](https://malonecenter.jhu.edu/meetup/18symposium/), Baltimore, MD. 
+- Crockett M., **Mu, C.**, & Dahbura, A. T. (2018). [Predictive Analytics for Patient Mobility Using AM-PAC](https://congm.github.io/research/Predictive%20Analytics%20for%20Patient%20Mobility%20Using%20AM-PAC.pdf). Poster presented at 2018 Johns Hopkins Research Symposium on Engineering in Healthcare, Baltimore, MD. 
 
 
 
