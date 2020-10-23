@@ -24,14 +24,16 @@ external_link = ""
 slides = ""
 
 # Links (optional).
-url_pdf = "https://congm.github.io/research/Simulation_GRDPGwithCovariates_UpToDate.pdf"
+url_pdf = ""
 url_slides = ""
 url_video = ""
-url_code = "https://github.com/meleangelo/grdpg"
+url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 links = [{name="Shiny App", url = "https://cong.shinyapps.io/ChinaNetwork/"}]
+links = [{name="Package", url = "https://github.com/meleangelo/grdpg"}]
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
