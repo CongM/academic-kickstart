@@ -33,7 +33,7 @@ url_code = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # links = [{name="Poster", url = "https://congm.github.io/research/Dash%20Cam%20Video%20Analysis%20-%20Laptimes%20and%20Beyond.pdf"}]
-links = [{name="arXiv", url = "https://arxiv.org/abs/2007.02156"}]
+links = [{name="Preprint", url = "https://arxiv.org/abs/2007.02156"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
