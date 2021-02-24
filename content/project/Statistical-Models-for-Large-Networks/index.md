@@ -6,7 +6,7 @@ title = "Statistical Models for Large Networks"
 date = 2019-04-14T00:00:00
 
 # Project summary to display on homepage.
-summary = "Built network models that could be scaled to analyze large networks."
+summary = "Built statistical models and algorithms that could be scaled to analyze large networks."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -45,7 +45,7 @@ links = [{name="Shiny App", url = "https://cong.shinyapps.io/ChinaNetwork/"}, {n
   focal_point = "Smart"
 +++
 
-- Built network models that could be scaled to analyze large networks; estimated and simulated network formation models using high performance computing; developed R package with research purposes such as identifying the community structure, influence of nodes on core-periphery.
+- Built statistical models and algorithms that could be scaled to analyze large networks; estimated and simulated network formation models using high performance computing; developed R package with research purposes such as identifying the community structure.
 
 - Key words: **Hierarchical Exponential-Family Random Graph Models, (Generalized) Random Dot Product Graph, SBM with Covariates, Variational Generalized EM Algorithms, Minorize-Maximization, Parallel Computation.**
 
