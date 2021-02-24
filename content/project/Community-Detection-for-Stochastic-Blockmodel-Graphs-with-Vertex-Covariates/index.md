@@ -46,10 +46,10 @@ links = [{name="Preprint", url = "https://arxiv.org/abs/2007.02156"}]
   focal_point = "Smart"
 +++
 
-- Develop model-based spectral algorithms for clustering vertices in stochastic blockmodel graphs with vertex covariates; assess effects of observed and unobserved vertex heterogeneity on block recovery; employ Chernoff information to analytically compare the algorithms' performance and derive the Chernoff ratio formula for some special models of interest; evaluate via simulations and real data experiments on a diffusion MRI connectome data set.
+- Develop model-based spectral algorithms for clustering vertices in stochastic blockmodel graphs with vertex covariates; assess effects of observed and unobserved vertex heterogeneity on block recovery; employ Chernoff information to analytically compare the algorithms' performance and derive the Chernoff ratio expression for certain models of interest.
 
-- Key words: **Spectral Graph Inference, Chernoff Ratio, Stochastic Blockmodel, Vertex Covariates.**
+- Key words: **Spectral Graph Inference, Community Detection, Stochastic Blockmodel, Vertex Covariates, Chernoff Ratio.**
 
-- **Mu, C.**, Mele, A., Hao, L., Cape, J., Athreya, A., & Priebe, C. E. (2020). On identifying unobserved heterogeneity in stochastic blockmodel graphs with vertex covariates. arXiv preprint arXiv:2007.02156.
+- **Mu, C.**, Mele, A., Hao, L., Cape, J., Athreya, A., & Priebe, C. E. (2020). On spectral algorithms for community detection in stochastic blockmodel graphs with vertex covariates. arXiv preprint arXiv:2007.02156.
 
 
